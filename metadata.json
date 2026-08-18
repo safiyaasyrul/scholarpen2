@@ -1,0 +1,6 @@
+{
+  "name": "Systematic Literature Review Suite",
+  "description": "PRISMA 2020-compliant systematic review workbench with 9-step workflow, 18-column evidence matrix, claim verification audit, and bibliometric analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
